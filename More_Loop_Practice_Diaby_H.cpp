@@ -50,6 +50,8 @@ for (i=1; i<=Transactions; i++) {
                     cout << " Adding Balance....\n" << endl; 
                     cout<< "Your New balance is  " <<  InitialBal + AmtSpentTransaction << "Dollars"<<endl;
                     cin >> FINALamt;
+                
+
 
 
 cout << "YOUR FINAL BALANCE AFTER ALL TRANSACTIONS IS $$ " << FINALamt << endl;
